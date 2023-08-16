@@ -1,0 +1,21 @@
+{
+  "filters": {
+    "kind": "",
+    "maxPrice": 0,
+    "origin": ""
+  },
+  "items": [
+    {
+      "kind": "banana",
+      "price": 10,
+      "origin": "fra",
+      "id": 1
+    },
+    {
+      "kind": "strawberry",
+      "price": 20,
+      "origin": "esp",
+      "id": 2
+    }
+  ]
+}
