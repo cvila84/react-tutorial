@@ -1,11 +1,16 @@
-# Getting Started with Create React App
+# React Tutorial
 
 ---
 
-## Manual shits
+## Installation steps
 
-yarn create react-app ui (instead of npx create-react-app)
-yarn add eslint-config-react
+```
+npm install --global yarn
+npm install --global json-server
+yarn create react-app react-tutorial (instead of npx create-react-app react-tutorial)
+yarn add styled-components
+yarn add bootstrap
+```
 
 ---
 
